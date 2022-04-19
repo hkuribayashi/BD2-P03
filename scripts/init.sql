@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS catalogo;
+
+CREATE DATABASE catalogo;
